@@ -1,0 +1,19 @@
+{
+  "name": "e2e",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "cypress:open": "cypress open",
+    "cypress:run": "cypress run"
+  },
+  "keywords": [],
+  "author": "Tagawa Hirotaka <wafuwafumariobaske@gmail.com> (https://tagawa.netlify.app/)",
+  "license": "ISC",
+  "dependencies": {
+    "typescript": "^4.1.3"
+  },
+  "devDependencies": {
+    "cypress": "^6.4.0"
+  }
+}
